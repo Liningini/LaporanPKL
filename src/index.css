@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+  font-family: fellEng;
+  src: url("./assets/cf-regular.ttf");
+}
+
+.fellEng{
+  font-family: fellEng;
+}
+body {
+  overflow-x: hidden;
+  background-color: black;
+}
